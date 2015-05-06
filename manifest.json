@@ -2,7 +2,7 @@
 	"name": "Random Google IP",
 	"description": "随机打开一个Google IP",
 	"version": "0.1",
-	"homepage_url": "https://github.com/shispt/Google-IPs",
+	"homepage_url": "https://github.com/shispt/random-google-ip",
 	"manifest_version": 2,
 	"browser_action": {
 		"default_icon": "google_favicon_128.png",
